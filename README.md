@@ -3,5 +3,5 @@
 
 Para iniciar o projeto:
 ```
- npm install react
+node app.js
 ```
