@@ -1,2 +1,8 @@
 Console.log("Rodando o sistema de gerenciamento de jogos")
 Console.log("Rodando o bando de dados")
+Console.log("Inserindo informações a mais")
+Console.log("Inserindo informações a mais")
+Console.log("Inserindo informações a mais")
+Console.log("Inserindo informações a mais")
+Console.log("Inserindo informações a mais")
+Console.log("Inserindo informações a mais")
